@@ -1,4 +1,4 @@
-### Hey, I'm Mehmet Baran 👋
+### Hey, I'm Mehmet Baran
 
 I build full-stack software — from AI-powered products to backend systems.
 
